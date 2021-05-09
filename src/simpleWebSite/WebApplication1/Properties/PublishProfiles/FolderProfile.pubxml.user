@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\simpleNetCore</_PublishTargetUrl>
+    <History>False|2021-05-09T13:40:45.3821001Z;False|2021-05-09T18:10:17.3655189+04:30;False|2021-05-09T18:10:08.7741991+04:30;False|2021-05-09T18:10:00.7735782+04:30;False|2021-05-09T18:09:45.9868595+04:30;</History>
+  </PropertyGroup>
+</Project>
