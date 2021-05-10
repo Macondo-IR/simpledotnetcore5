@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4Zq9rb3YsNfHLtZ1BeTW/tahx8MMA7XtFnZXc9tmX4J6BMOProL+Up/G7M7H1J1nG1JuEnSksrlAYAGu33TtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NewAge\\source\\repos\\simpledotnetcore5\\src\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NewAge\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.5\\microsoft.netcore.app.runtime.win-x64.5.0.5.nupkg.sha512",
+    "C:\\Users\\NewAge\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.5.nupkg.sha512",
+    "C:\\Users\\NewAge\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.5\\microsoft.aspnetcore.app.runtime.win-x64.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
